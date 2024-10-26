@@ -21,4 +21,6 @@ Remote
 - git merge {branch name}: gộp nhánh
 - git branch -d {branch name} : xóa nhánh
 - git push: đẩy local repo của mình lên trên remote repo (github)
-
+- (terminal) git clone {url} : đưa repo về thư mục hiện tại trên máy
+- (terminal) cd {thư mục}: chuyển đến thư mục cần mở
+- (terminal) code . :để chạy code trên vscode
