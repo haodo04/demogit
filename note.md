@@ -1,5 +1,10 @@
 # Term
 Repository (Repo): thư mục dự án
+Branch
+Conflict
+Local
+Remote
+
 
 # Commands
 - git init
@@ -15,5 +20,5 @@ Repository (Repo): thư mục dự án
 - git checkout -b {branch name} : tạo ra một branch mới
 - git merge {branch name}: gộp nhánh
 - git branch -d {branch name} : xóa nhánh
-
+- git push: đẩy local repo của mình lên trên remote repo (github)
 
