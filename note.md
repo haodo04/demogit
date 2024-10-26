@@ -8,4 +8,7 @@ Repository (Repo): thư mục dự án
 - git add .: để chuẩn bị lưu lại tất cả file
 - git reset : để bỏ chuẩn bị lưu các file
 - git commit -m 'ghi chú': để chính thức lưu file
+- git log
+- git log --oneline: xem các lần commit trước gọn hơn
+- git checkout id: để xem log có id đó
 
