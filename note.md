@@ -10,5 +10,6 @@ Repository (Repo): thư mục dự án
 - git commit -m 'ghi chú': để chính thức lưu file
 - git log
 - git log --oneline: xem các lần commit trước gọn hơn
-- git checkout id: để xem log có id đó
-
+- git checkout {id}: để xem log có id đó
+- git branch: chia nhánh
+- git checkout -b {branch name} : tạo ra một branch mới
