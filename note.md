@@ -11,7 +11,9 @@ Repository (Repo): thư mục dự án
 - git log
 - git log --oneline: xem các lần commit trước gọn hơn
 - git checkout {id}: để xem log có id đó
-- git branch: chia nhánh
+- git branch: xem nhánh hiện tại
 - git checkout -b {branch name} : tạo ra một branch mới
-- git merge -d {branch name}: gộp nhánh
+- git merge {branch name}: gộp nhánh
+- git branch -d {branch name} : xóa nhánh
+
 
