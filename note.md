@@ -24,3 +24,6 @@ Remote
 - (terminal) git clone {url} : đưa repo về thư mục hiện tại trên máy
 - (terminal) cd {thư mục}: chuyển đến thư mục cần mở
 - (terminal) code . :để chạy code trên vscode
+- git push -u origin {branch name}: đẩy branch vừa tạo lên github
+, lần sau không cần dùng origin chỉ cần push bình thường
+- git fetch origin: rồi sau đó dùng git checkout -b {branch name} origin/{branch name}: để chuyển sang nhánh đã tạo sẵn trên github
