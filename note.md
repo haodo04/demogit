@@ -13,3 +13,5 @@ Repository (Repo): thư mục dự án
 - git checkout {id}: để xem log có id đó
 - git branch: chia nhánh
 - git checkout -b {branch name} : tạo ra một branch mới
+- git merge -d {branch name}: gộp nhánh
+
