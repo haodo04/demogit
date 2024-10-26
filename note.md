@@ -4,6 +4,7 @@ Branch
 Conflict
 Local
 Remote
+gitignore
 
 
 # Commands
@@ -27,3 +28,6 @@ Remote
 - git push -u origin {branch name}: đẩy branch vừa tạo lên github
 , lần sau không cần dùng origin chỉ cần push bình thường
 - git fetch origin: rồi sau đó dùng git checkout -b {branch name} origin/{branch name}: để chuyển sang nhánh đã tạo sẵn trên github
+- sau khi đã pull request trên github
+-> ta chuyển lại về nhánh master mặc định
+-> git pull để lưu thay đổi
